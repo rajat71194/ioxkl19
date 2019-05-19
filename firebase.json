@@ -15,7 +15,7 @@
     "redirects":[
       {
         "source": "/",
-        "destination": "https://gdgkl.dev",
+        "destination": "",
         "type": 301
       }
     ]

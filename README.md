@@ -1,6 +1,6 @@
-# I/O Extended 2019 Kuala Lumpur PWA
+# I/O Extended 2019 Indore PWA
 
-Progressive Web App for Google I/O Extended 2019 Kuala Lumpur.
+Progressive Web App for Google I/O Extended 2019 Indore.
 
 ![](https://i.imgur.com/QCyPvdX.jpg)
 

@@ -5,27 +5,27 @@ const builder = require('xmlbuilder');
 let prerenderJson = [
 	{
 		url: '/',
-		title: 'I/O Extended 2019 Kuala Lumpur'
+		title: 'I/O Extended 2019 Indore'
 	},
 	{
 		url: '/attending',
-		title: 'Attending - I/O Extended 2019 Kuala Lumpur'
+		title: 'Attending - I/O Extended 2019 Indore'
 	},
 	{
 		url: '/registration',
-		title: 'Registration - I/O Extended 2019 Kuala Lumpur'
+		title: 'Registration - I/O Extended 2019 Indore'
 	},
 	{
 		url: '/faq',
-		title: 'FAQ - I/O Extended 2019 Kuala Lumpur'
+		title: 'FAQ - I/O Extended 2019 Indore'
 	},
 	{
 		url: '/faq/communityguidelines',
-		title: 'Community Guidelines - I/O Extended 2019 Kuala Lumpur'
+		title: 'Community Guidelines - I/O Extended 2019 Indore'
 	},
 	{
 		url: '/cfp',
-		title: 'Call for Presenters - I/O Extended 2019 Kuala Lumpur'
+		title: 'Call for Presenters - I/O Extended 2019 Indore'
 	},
 ];
 
@@ -38,7 +38,7 @@ const getSpeakers = new Promise((resolve) => {
 	// 			let speakers = [];
 	// 			speakers = Object.keys(data).map(item => ({
 	// 				url: `/speakers/${item}`,
-	// 				title: `${data[item].name} - Speakers - I/O Extended 2019 Kuala Lumpur`
+	// 				title: `${data[item].name} - Speakers - I/O Extended 2019 Indore`
 	// 			}));
 	// 			resolve(speakers);
 	// 		});
@@ -53,7 +53,7 @@ const getSessions = new Promise((resolve) => {
 	// 			let sessions = [];
 	// 			sessions = Object.keys(data).map(item => ({
 	// 				url: `/schedule/${item}`,
-	// 				title: `${data[item].title} - Schedule - I/O Extended 2019 Kuala Lumpur`
+	// 				title: `${data[item].title} - Schedule - I/O Extended 2019 Indore`
 	// 			}));
 	// 			resolve(sessions);
 	// 		});

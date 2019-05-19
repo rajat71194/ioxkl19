@@ -18,7 +18,7 @@ export default class Home extends Component {
 	}
 
 	componentDidMount() {
-		document.title = 'I/O Extended 2019 Kuala Lumpur';
+		document.title = 'I/O Extended 2019 Indore';
 		window.addEventListener('scroll', this.handleScroll, { passive: true });
 		this.handleScroll();
 	}
@@ -49,7 +49,7 @@ export default class Home extends Component {
 					<div class={style.text}>
 						<h3>What you need to know, before you ask.</h3>
 						<p>
-							I/O Extended 2019 Kuala Lumpur brings together the world class experts
+							I/O Extended 2019 Indore brings together the world class experts
 							in Android, Web, Machine Learning and Cloud technologies for one full day of
 							sessions, workshops and showcases.
 						</p>

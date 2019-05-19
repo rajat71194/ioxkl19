@@ -16,7 +16,7 @@ export default class Register extends Component {
 	}
 
 	componentDidMount() {
-		document.title = 'Community Guidelines - I/O Extended 2019 Kuala Lumpur';
+		document.title = 'Community Guidelines - I/O Extended 2019 Indore';
 		window.addEventListener('scroll', this.handleScroll, { passive: true });
 		this.handleScroll();
 	}
@@ -34,7 +34,7 @@ export default class Register extends Component {
 					<h2>Community Guidelines</h2>
 				</div>
 				<div class={style.container}>
-					<p>Google Developer Group Kuala Lumpur (GDGKL) and Google is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. Google takes violations of our policy seriously and will respond appropriately.</p>
+					<p>Google Developer Group Indore (GDGKL) and Google is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. Google takes violations of our policy seriously and will respond appropriately.</p>
 					<p>All participants of Google-supported events must abide by the following policy:</p>
 					<h4>Be excellent to each other.</h4>
 					<p><span>Treat everyone with respect. Participate while acknowledging that everyone deserves to be here — and each of us has the right to enjoy our experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.</span></p>

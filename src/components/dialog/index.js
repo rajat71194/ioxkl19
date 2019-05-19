@@ -38,7 +38,7 @@ export default class CustomDialog extends Component {
 	share = (dataId, data) => e => {
 		if (navigator.share) {
 			navigator.share({
-				title: 'I/O Extended 2019 Kuala Lumpur',
+				title: 'I/O Extended 2019 Indore',
 				text: `Check out '${data.title}' at #ioxkl19`,
 				url: `https://events.gdgkl.org/io/schedule/${dataId}`
 			});

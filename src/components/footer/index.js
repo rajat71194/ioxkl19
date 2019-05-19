@@ -6,7 +6,7 @@ export default class Footer extends Component {
 		return (
 			<div class={style.footer}>
 				<div class={style.footer_logo}>
-					<img crossorigin="anonymous" alt="GDG Kuala Lumpur Logo" src="https://res.cloudinary.com/shangyilim/image/upload/v1554985776/new-gdgkl.svg" />
+					<img crossorigin="anonymous" alt="GDG Indore Logo" src="https://res.cloudinary.com/shangyilim/image/upload/v1554985776/new-gdgkl.svg" />
 				</div>
 				<div class={style.footer_links}>
 					<div class={style.footer_link}>

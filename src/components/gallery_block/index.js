@@ -20,10 +20,10 @@ export default class GalleryBlock extends Component {
 				<img crossorigin="anonymous" class={style.grid_item} src="https://res.cloudinary.com/limhenry/image/upload/v1537072866/devfestkl18_pwa/gallery/8.jpg" />
 				<div crossorigin="anonymous" class={style.gallery_info}>
 					<div>
-						<h2>I/O Extended KL 2018 highlights</h2>
+						<h2>IWD 2019 highlights</h2>
 						<p>This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
 					</div>
-					<a href="https://photos.app.goo.gl/uw6aRmAurGVjafrt8" target="_blank" rel="noopener noreferrer">See all photos</a>
+					<a href="https://photos.google.com/share/AF1QipOkw9GPf2HV9ue7cMiiALYtia1_-of0SeFxeut-YrmjVtNOL420uC56SZry1xmlag?key=X2F6QUJTUm9pcWZZS3g3Mnk5YVgtSWhSVFR4QU9R" target="_blank" rel="noopener noreferrer">See all photos</a>
 				</div>
 			</div>
 		);

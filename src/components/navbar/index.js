@@ -121,7 +121,7 @@ export default class NavBar extends Component {
 						<div class={style.drawer_toolbar}>
 							<IoLogo />
 							<h2>16 June 2019</h2>
-							<p>Sunway University, Bandar Sunway</p>
+							<p>Indore</p>
 						</div>
 						<div class={style.drawer_nav}>
 							<Link
@@ -234,7 +234,7 @@ export default class NavBar extends Component {
 								</Link>
 							)}
 						</Match>
-						<Match path="/cfp">
+						{/* <Match path="/cfp">
 							{({ path, url }) => (
 								<Link
 									activeClassName={style.active}
@@ -247,8 +247,8 @@ export default class NavBar extends Component {
 									<span class={style.cfpTitleMobile}>CFP</span>
 								</Link>
 							)}
-						</Match>
-						<Match path="/faq">
+						</Match> */}
+						{/* <Match path="/faq">
 							{({ path, url }) => (
 								<Link
 									activeClassName={style.active}
@@ -260,7 +260,7 @@ export default class NavBar extends Component {
 									<span>FAQ</span>
 								</Link>
 							)}
-						</Match>
+						</Match> */}
 						<div class={style.line} />
 					</nav>
 				</div>
